@@ -1,1 +1,1 @@
-# python-science-class
+# python-class
